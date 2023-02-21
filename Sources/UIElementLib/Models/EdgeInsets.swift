@@ -1,13 +1,11 @@
 //
-//  File.swift
+//  EdgeInsets.swift
 //  
 //
 //  Created by Christian Trümper on 20.02.23.
 //
 
 import SwiftUI
-
-// MARK: Edge insets
 
 public extension EdgeInsets {
     
