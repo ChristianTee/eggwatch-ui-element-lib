@@ -54,6 +54,8 @@ public class Layout {
 
     public enum Height: CGFloat {
         
+        case height25 = 25.0
+        case height35 = 35.0
         case height50 = 50.0
     }
 }
