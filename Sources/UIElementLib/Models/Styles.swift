@@ -147,7 +147,7 @@ public class Styles {
     }
     
     public static var bodyStartSecondary: ElementStyle {
-        return ElementStyle(fontSize: .body, fontWeight: .regular, textAlignment: .start, foregroundColor: .text)
+        return ElementStyle(fontSize: .body, fontWeight: .semibold, textAlignment: .start, foregroundColor: .egg)
     }
     
     public static var bodyCenterDefault: ElementStyle {
