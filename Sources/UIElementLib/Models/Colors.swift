@@ -20,7 +20,7 @@ public extension Color {
     static let background = Color("Background", bundle: Bundle.module)
     static let secondBackground = Color("Second-Background", bundle: Bundle.module)
     
-    static let divider = Color(red: 179/255.0, green: 179/255.0, blue: 179/255.0)
+    static let divider = Color("Divider", bundle: Bundle.module)
     
     static let text = Color("Text-Tint", bundle: Bundle.module)
     
