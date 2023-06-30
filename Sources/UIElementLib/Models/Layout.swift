@@ -28,6 +28,7 @@ public class Layout {
         case spacing8 = 8.0
         case spacing16 = 16.0
         case spacing20 = 20.0
+        case spacing24 = 24.0
     }
     
     // MARK: Radius
